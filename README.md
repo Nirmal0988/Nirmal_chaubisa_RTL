@@ -3,7 +3,8 @@
 This repository contains an **RTL implementation of UART (Universal Asynchronous Receiver Transmitter)** using **Verilog HDL**.  
 It includes both **TX (transmit)** and **RX (receive)** modules, designed for **AXI4-Stream interface integration** on FPGA.
 
----
+
+****error folder have no error file whereas outside of folder have logical error****
 
 ## 📂 Repository Contents
 
